@@ -147,7 +147,7 @@ public class Car extends Transport {
                 ", productionYear=" + productionYear +
                 ", productionCountry='" + productionCountry + '\'' +
                 ", colour='" + colour + '\'' +
-                ", speed=" + speed +
+                ", .speed=" + speed +
                 '}';
     }
 }
