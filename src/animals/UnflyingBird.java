@@ -39,7 +39,7 @@ public class UnflyingBird extends Bird {
                 "typeOfMove='" + typeOfMove + '\'' +
                 ", livingEnvironment='" + livingEnvironment + '\'' +
                 ", name='" + name + '\'' +
-                ", age=" + age +
+                ", .age=" + age +
                 '}';
     }
 }

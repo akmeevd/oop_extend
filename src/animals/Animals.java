@@ -17,7 +17,7 @@ public class Animals {
     }
 
     public void eat() {
-        System.out.println("Я ем");
+        System.out.println("Я ем.");
     }
 
     public void sleep() {

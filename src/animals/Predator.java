@@ -40,7 +40,7 @@ public class Predator extends Mammal{
                 ", livingEnvironment='" + livingEnvironment + '\'' +
                 ", moveSpeed=" + moveSpeed +
                 ", name='" + name + '\'' +
-                ", age=" + age +
+                ", .age=" + age +
                 '}';
     }
 }
