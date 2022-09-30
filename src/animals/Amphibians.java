@@ -38,7 +38,7 @@ public class Amphibians extends Animals {
         return "Amphibians{" +
                 "livingEnvironment='" + livingEnvironment + '\'' +
                 ", name='" + name + '\'' +
-                ", age=" + age +
+                ", 'age=" + age +
                 '}';
     }
 }

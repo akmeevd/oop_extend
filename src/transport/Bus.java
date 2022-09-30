@@ -8,6 +8,6 @@ public class Bus extends Transport {
 
     @Override
     public void refill() {
-        System.out.println("Можно заправлять бензином или дизелем");
+        System.out.println("Можно заправлять бензином или дизелем.");
     }
 }

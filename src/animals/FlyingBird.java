@@ -22,7 +22,7 @@ public class FlyingBird extends Bird{
 
     @Override
     public void eat() {
-        System.out.println("я ем мясцо");
+        System.out.println("я ем мясцо.");
     }
 
     @Override

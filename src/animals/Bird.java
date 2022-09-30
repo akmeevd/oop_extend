@@ -11,7 +11,7 @@ public class Bird extends Animals{
         }
     }
     public void hunt() {
-        System.out.println("я охочусь");
+        System.out.println("я охочусь.");
     }
 
     public String getLivingEnvironment() {

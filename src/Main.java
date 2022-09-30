@@ -75,7 +75,7 @@ public class Main {
         System.out.println(frog);
         System.out.println(bear);
         System.out.println(hyena);
-        System.out.println(tiger);
+        
 
 
 
